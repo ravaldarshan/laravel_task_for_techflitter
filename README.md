@@ -8,4 +8,4 @@
 6. Run `php artisan db:seed` to create fake data
 7. Run `php artisan serve` to start the development server
 
-![Screenshot](https://github.com/ravaldarshan/laravel_task_for_techflitter/tree/main/public/user_list.png)
+![Screenshot](./public/user_list.png)
